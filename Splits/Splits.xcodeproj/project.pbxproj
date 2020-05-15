@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7F01B3C5246ED821003D84BA /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F01B3C4246ED821003D84BA /* Test.swift */; };
 		7F3FD5DE245B34ED0000DB51 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3FD5DD245B34ED0000DB51 /* AppDelegate.swift */; };
 		7F3FD5E0245B34ED0000DB51 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3FD5DF245B34ED0000DB51 /* MasterViewController.swift */; };
 		7F3FD5E2245B34ED0000DB51 /* ImagePresentationVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F3FD5E1245B34ED0000DB51 /* ImagePresentationVC.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7F01B3C4246ED821003D84BA /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		7F3FD5DA245B34ED0000DB51 /* Splits.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Splits.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7F3FD5DD245B34ED0000DB51 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7F3FD5DF245B34ED0000DB51 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				7F3FD5E8245B34EE0000DB51 /* LaunchScreen.storyboard */,
 				7F3FD5EB245B34EE0000DB51 /* Info.plist */,
 				7F749FCB246B9E1800839862 /* Images+Names+Colors.swift */,
+				7F01B3C4246ED821003D84BA /* Test.swift */,
 			);
 			path = Splits;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				7F3FD5E2245B34ED0000DB51 /* ImagePresentationVC.swift in Sources */,
 				7F3FD5E0245B34ED0000DB51 /* MasterViewController.swift in Sources */,
+				7F01B3C5246ED821003D84BA /* Test.swift in Sources */,
 				7F749FCC246B9E1800839862 /* Images+Names+Colors.swift in Sources */,
 				7F3FD5DE245B34ED0000DB51 /* AppDelegate.swift in Sources */,
 			);

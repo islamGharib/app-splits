@@ -24,6 +24,7 @@ class MasterViewController: UITableViewController {
                 // fullscreen of image
                 controller.navigationItem.leftBarButtonItem = splitViewController?.displayModeButtonItem
                 controller.navigationItem.leftItemsSupplementBackButton = true
+                
             }
         }
     }
